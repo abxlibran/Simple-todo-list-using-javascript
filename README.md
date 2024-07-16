@@ -1,7 +1,7 @@
 # Simple todo list using javascript
 
 Instructions:
-  "new" - Add a Todo</li>
-  "list" - List all todos
-  "delete" - Remove specific todo
-  "quit" - Quit app
+  1."new" - Add a Todo
+  2."list" - List all todos
+  3."delete" - Remove specific todo
+  4."quit" - Quit app
