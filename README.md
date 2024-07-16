@@ -1,7 +1,7 @@
 # Simple todo list using javascript
 
 Instructions:
-  1."new" - Add a Todo
-  2."list" - List all todos
-  3."delete" - Remove specific todo
-  4."quit" - Quit app
+Enter "new" to add a new todo in console
+Enter "list" to list all todos in console
+Enter "delete" to delete a specific todo
+Enter "quit" to auit app
